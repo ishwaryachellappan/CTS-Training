@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {
+      "ename": "ishu",
+      "job": "program analyst",
+      "email": "ishu@gmail.com",
+      "salary": "2456789",
+      "id": 1
+    }
+  ]
+}
